@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PHONE = '5511999999999' // user should update
+const PHONE = '5561998393570' // atualizado conforme solicitado
 
 export default function WhatsAppButton() {
   const message = encodeURIComponent('Olá, quero assinar o Vizzion MaxTV. Quais são os planos?')
