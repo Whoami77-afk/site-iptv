@@ -14,16 +14,18 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Vizzion MaxTV — IPTV Premium</title>
+        <title>Vizzion MaxTV — IPTV Premium com 15.000+ Canais</title>
         <meta
           name="description"
-          content="Vizzion MaxTV: IPTV profissional com milhares de canais, suporte via WhatsApp e planos flexíveis."
+          content="Vizzion MaxTV: IPTV profissional com mais de 15.000 canais, filmes e séries em HD/4K. Suporte 24/7 via WhatsApp. Assine agora e ganhe 7 dias grátis!"
         />
+        <meta name="keywords" content="IPTV, streaming, canais ao vivo, filmes, séries" />
+        <meta name="author" content="Vizzion MaxTV" />
       </Helmet>
 
-      <div className="min-h-screen bg-slate-900 text-slate-100">
+      <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 text-slate-100">
         <Header />
-        <main className="container mx-auto py-12 px-4">
+        <main>
           <Hero />
           <Features />
           <Channels />
