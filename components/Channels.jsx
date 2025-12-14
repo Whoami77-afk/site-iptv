@@ -21,4 +21,4 @@ export default function Channels() {
     </section>
   )
 }
-export { default } from '../Channels.jsx'
+

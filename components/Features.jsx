@@ -22,4 +22,4 @@ export default function Features() {
     </section>
   )
 }
-export { default } from '../Features.jsx'
+

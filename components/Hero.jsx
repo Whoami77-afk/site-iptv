@@ -24,4 +24,4 @@ export default function Hero() {
     </section>
   )
 }
-export { default } from '../Hero.jsx'
+

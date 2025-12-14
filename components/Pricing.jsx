@@ -30,4 +30,4 @@ export default function Pricing() {
     </section>
   )
 }
-export { default } from '../Pricing.jsx'
+
